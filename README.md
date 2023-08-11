@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Python, Javascript, Dart, C, C++, Java, Kotlin**
 
-- 📫 How to reach me **ardumanan@gmail.com**
+- 📫 Reach out to me at **ardumanan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
