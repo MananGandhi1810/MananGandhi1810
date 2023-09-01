@@ -11,7 +11,7 @@
 <p align="left">
 <a href='https://dev.to/manangandhi1810' target="_blank"><img alt='dev.to' src='https://img.shields.io/badge/Dev.to-100000?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=016489&color=016489'/></a>
 <a href='https://twitter.com/manangandhi1810' target="_blank"><img alt='Twitter' src='https://img.shields.io/badge/Twitter-100000?style=for-the-badge&logo=Twitter&logoColor=white&labelColor=00BAFF&color=00BAFF'/></a>
-<a href='https://twitter.com/manangandhi1810' target="_blank"><img alt='StackOverflow' src='https://img.shields.io/badge/Stack_Overflow-100000?style=for-the-badge&logo=StackOverflow&logoColor=white&labelColor=E10000&color=E10000'/></a>
+<a href='https://stackoverflow.com/users/13796190/manangandhi1810' target="_blank"><img alt='StackOverflow' src='https://img.shields.io/badge/Stack_Overflow-100000?style=for-the-badge&logo=StackOverflow&logoColor=white&labelColor=E10000&color=E10000'/></a>
 <a href='https://instagram.com/manan.py' target="_blank"><img alt='Instagram' src='https://img.shields.io/badge/Instagram-100000?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=FE0098&color=FE0098'/></a>
 <a href='https://dribbble.com/MananGandhi1810/about' target="_blank"><img alt='Dribbble' src='https://img.shields.io/badge/Dribbble-100000?style=for-the-badge&logo=Dribbble&logoColor=white&labelColor=FEE201&color=FEE201'/></a>
 </p>
