@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manan Gandhi</h1>
-<h3 align="center">A passionate full stack developer pursuing B.Tech in Computer Engineering.</h3>
+<h3 align="center">A passionate web and mobile development enthusiast pursuing B.Tech in Computer Engineering at NMIMS' MPSTME.</h3>
 
 - 🌱 I’m currently learning **Flutter, and building some mobile apps with it**
 
