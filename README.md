@@ -7,6 +7,8 @@
 
 - 📫 Reach out to me at **ardumanan@gmail.com**
 
+- 🧑‍💻 My Website - [https://manangandhi.netlify.app](https://manangandhi.netlify.app)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href='https://dev.to/manangandhi1810' target="_blank"><img alt='dev.to' src='https://img.shields.io/badge/Dev.to-100000?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=016489&color=016489'/></a>
