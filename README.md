@@ -7,7 +7,7 @@
 
 - 📫 Reach out to me at **ardumanan@gmail.com**
 
-- 🧑‍💻 My Website - [https://manangandhi.netlify.app](https://manangandhi.netlify.app)
+- 🧑‍💻 My Website - [https://manangandhi.tech](https://manangandhi.tech)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
