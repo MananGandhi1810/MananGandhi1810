@@ -3,7 +3,11 @@
 
 -   🌱 I’m currently learning **Flutter, and building some mobile apps with it**
 
+<<<<<<< HEAD
 -   💬 Ask me about **Python, Javascript, Dart(Flutter), C, C++, Java, Kotlin**
+=======
+- 💬 Ask me about **Python, Javascript, Dart, C, C++, Java, Kotlin, or anything in tech**
+>>>>>>> 7177aabb46a0dce991860083ff4df23485e93d2c
 
 -   📫 Reach out to me at **ardumanan@gmail.com**
 
