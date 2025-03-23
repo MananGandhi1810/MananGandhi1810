@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manan Gandhi</h1>
 <h3 align="center">A web and mobile development enthusiast pursuing B.Tech in Computer Engineering at NMIMS' MPSTME.</h3>
 
--   🌱 I’m currently learning **Flutter, and building some mobile apps with it**
+-   🌱 I’m currently exploring new technologies and open source tools
 
 - 💬 Ask me about **Python, Javascript, Dart, C, C++, Java, Kotlin, or anything in tech**
 
