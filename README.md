@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Python, Javascript, Dart, C, C++, Java, Kotlin, or anything in tech**
 
--   📫 Reach out to me at **ardumanan@gmail.com**
+-   📫 Reach out to me at **github@manangandhi.tech**
 
 -   🧑‍💻 My Website - [https://manangandhi.tech](https://manangandhi.tech)
 
