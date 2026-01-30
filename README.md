@@ -4,9 +4,9 @@ I'm a 19-year-old computer engineering student at NMIMS MPSTME. I like to code a
 
 -   Currently exploring modern web and mobile stacks, cloud computing, developer tooling, and open-source collaboration
 -   Ask me about: Python, JavaScript, Dart & Flutter, C/C++, Java, Kotlin, and software engineering
--   Email: [github@manangandhi.tech](mailto:github@manangandhi.tech)
+-   Email: [github@manan.cloud](mailto:github@manan.cloud)
     • [ardumanan@gmail.com](mailto:ardumanan@gmail.com)
--   Website: [https://manangandhi.tech](https://manangandhi.tech)
+-   Website: [https://manan.cloud](https://manan.cloud)
 
 ## What I build
 
