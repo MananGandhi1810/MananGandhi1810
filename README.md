@@ -26,7 +26,7 @@ I'm a 19-year-old computer engineering student at NMIMS MPSTME. I am currently w
 
 ## Featured links
 
--   Portfolio — https://manangandhi.tech
+-   Portfolio — [https://manangandhi.tech](https://www.manan.cloud/)
 -   GitHub — https://github.com/MananGandhi1810
 
 ### Connect with me
