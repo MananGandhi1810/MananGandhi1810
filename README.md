@@ -6,13 +6,13 @@ Currently exploring the intersection of technology and finance.
 
 🌐 **Portfolio:** [manan.cloud](https://www.manan.cloud/) · 💻 **Terminal portfolio:** `nc sh.manan.cloud 1810` · ✉️ **Email:** [github@manan.cloud](mailto:github@manan.cloud)
 
-## Featured projects
+## Selected projects
 
-- **[IntelliAnnounce](https://www.manan.cloud/projects)** — Filters Indian market announcements and delivers concise AI summaries as speech, so traders can stay focused on execution.
-- **[OpenQuant](https://www.manan.cloud/projects)** — Open source market data dashboard with AI insights, visualizations, and strategy backtesting. Winner of FOSS Club MPSTME CodeForge 2026.
-- **[MPSTME OnTrack](https://www.manan.cloud/projects)** — Student schedule and class details app with 1,500+ downloads across the Play Store and App Store.
-- **[FluxGate](https://www.manan.cloud/projects)** — Self-hostable deployment platform for GitHub repositories, including natural-language deployment. Winner of Best Use of Gemini API at HackThisFall Virtual 2024.
-- **[Save Birds Admin Dashboard](https://www.manan.cloud/projects)** — Management tools for a bird rescue and rehabilitation effort supporting 30+ cases per day in Kandivali, Mumbai.
+- **IntelliAnnounce** — Real-time market intelligence platform that filters company disclosures and delivers personalized alerts and AI-generated summaries as speech. Uses Redis for live announcement data and PostgreSQL for persistence.
+- **Sandboxed Online Code Judge** — Online coding platform used by 200+ people, with leaderboards, editorials, and AI-assisted hints. Runs Python, C, C++, and Java submissions in isolated Docker containers with resource limits.
+- **OpenQuant** — NIFTY options analytics and strategy research platform for market analysis, payoff modeling, backtesting, and anomaly detection. Won 1st place at FOSS Club MPSTME CodeForge 2026.
+- **Adeon** — AI-powered software development platform for code review, vulnerability analysis, documentation, testing, and development environment provisioning. Ranked in the global top 35 among 1,500+ projects at the 100X Engineers Buildathon.
+- **FluxGate** — Self-hosted continuous deployment platform that rebuilds and deploys applications from GitHub, with isolated environments, build logs, failure alerts, and natural-language infrastructure management.
 
 [Explore all projects →](https://www.manan.cloud/projects)
 
